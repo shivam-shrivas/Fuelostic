@@ -1,0 +1,796 @@
+[01-Apr-2021 11:52:15 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[02-Apr-2021 08:14:34 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[02-Apr-2021 08:32:46 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[02-Apr-2021 08:33:03 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[02-Apr-2021 08:34:16 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[02-Apr-2021 08:37:52 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[02-Apr-2021 08:39:13 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[02-Apr-2021 08:40:40 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[02-Apr-2021 09:24:21 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[02-Apr-2021 09:55:41 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[02-Apr-2021 09:56:09 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[02-Apr-2021 10:07:19 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[02-Apr-2021 10:18:06 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[02-Apr-2021 12:23:02 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[02-Apr-2021 12:23:18 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[02-Apr-2021 12:23:24 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/password.php:1) in /home3/fuelosti/public_html/WEB_APP/dash-pro/password.php on line 4
+[02-Apr-2021 12:23:24 America/Boise] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home3/fuelosti/public_html/WEB_APP/dash-pro/password.php on line 69
+[02-Apr-2021 12:23:24 America/Boise] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home3/fuelosti/public_html/WEB_APP/dash-pro/password.php on line 69
+[02-Apr-2021 12:23:28 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/password.php:1) in /home3/fuelosti/public_html/WEB_APP/dash-pro/password.php on line 4
+[02-Apr-2021 12:23:28 America/Boise] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home3/fuelosti/public_html/WEB_APP/dash-pro/password.php on line 69
+[02-Apr-2021 12:23:28 America/Boise] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home3/fuelosti/public_html/WEB_APP/dash-pro/password.php on line 69
+[02-Apr-2021 12:23:29 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/password.php:1) in /home3/fuelosti/public_html/WEB_APP/dash-pro/password.php on line 4
+[02-Apr-2021 12:23:29 America/Boise] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home3/fuelosti/public_html/WEB_APP/dash-pro/password.php on line 69
+[02-Apr-2021 12:23:29 America/Boise] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home3/fuelosti/public_html/WEB_APP/dash-pro/password.php on line 69
+[02-Apr-2021 12:23:38 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[02-Apr-2021 12:23:46 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[02-Apr-2021 12:24:27 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/password.php:1) in /home3/fuelosti/public_html/WEB_APP/dash-pro/password.php on line 4
+[02-Apr-2021 12:24:27 America/Boise] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home3/fuelosti/public_html/WEB_APP/dash-pro/password.php on line 69
+[02-Apr-2021 12:24:27 America/Boise] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home3/fuelosti/public_html/WEB_APP/dash-pro/password.php on line 69
+[02-Apr-2021 12:24:39 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/password.php:1) in /home3/fuelosti/public_html/WEB_APP/dash-pro/password.php on line 4
+[02-Apr-2021 12:24:39 America/Boise] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home3/fuelosti/public_html/WEB_APP/dash-pro/password.php on line 69
+[02-Apr-2021 12:24:39 America/Boise] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home3/fuelosti/public_html/WEB_APP/dash-pro/password.php on line 69
+[02-Apr-2021 12:25:05 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/password.php:1) in /home3/fuelosti/public_html/WEB_APP/dash-pro/password.php on line 4
+[02-Apr-2021 12:25:05 America/Boise] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home3/fuelosti/public_html/WEB_APP/dash-pro/password.php on line 69
+[02-Apr-2021 12:25:05 America/Boise] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home3/fuelosti/public_html/WEB_APP/dash-pro/password.php on line 69
+[02-Apr-2021 14:37:06 America/Boise] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/password.php:1) in /home3/fuelosti/public_html/WEB_APP/dash-pro/password.php on line 4
+[02-Apr-2021 14:37:06 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/password.php:1) in /home3/fuelosti/public_html/WEB_APP/dash-pro/password.php on line 4
+[02-Apr-2021 14:37:06 America/Boise] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home3/fuelosti/public_html/WEB_APP/dash-pro/password.php on line 69
+[02-Apr-2021 14:37:06 America/Boise] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home3/fuelosti/public_html/WEB_APP/dash-pro/password.php on line 69
+[02-Apr-2021 21:29:10 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[02-Apr-2021 21:29:54 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[02-Apr-2021 21:30:39 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[02-Apr-2021 21:31:30 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[03-Apr-2021 05:05:00 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[03-Apr-2021 05:08:36 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'fuelosti_dash1'@'localhost' (using password: YES) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[03-Apr-2021 05:08:48 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'fuelosti_dash1'@'localhost' (using password: YES) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[03-Apr-2021 05:10:14 America/Boise] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[03-Apr-2021 05:10:51 America/Boise] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[03-Apr-2021 05:11:23 America/Boise] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[03-Apr-2021 05:11:55 America/Boise] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[03-Apr-2021 05:12:27 America/Boise] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[03-Apr-2021 05:12:58 America/Boise] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[03-Apr-2021 05:13:30 America/Boise] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[03-Apr-2021 05:14:02 America/Boise] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[03-Apr-2021 05:14:34 America/Boise] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[03-Apr-2021 05:15:05 America/Boise] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[03-Apr-2021 05:16:35 America/Boise] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[03-Apr-2021 05:17:07 America/Boise] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[03-Apr-2021 05:17:39 America/Boise] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[03-Apr-2021 05:17:39 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'fuelosti_dash1'@'162.214.80.79' to database 'fuelosti_dash' in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[03-Apr-2021 05:17:39 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'fuelosti_dash1'@'162.214.80.79' to database 'fuelosti_dash' in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[03-Apr-2021 05:18:43 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'fuelosti_dash1'@'162.214.80.79' to database 'fuelosti_dash' in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[03-Apr-2021 05:18:59 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'fuelosti_dash1'@'162.214.80.79' to database 'fuelosti_dash' in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[03-Apr-2021 05:24:19 America/Boise] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[03-Apr-2021 05:24:51 America/Boise] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[03-Apr-2021 05:25:08 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'fuelosti_dash1'@'localhost' to database 'fuelosti_dash' in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[03-Apr-2021 05:25:28 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'fuelosti_dash1'@'localhost' to database 'fuelosti_dash' in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[03-Apr-2021 05:25:59 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'fuelosti_dash1'@'localhost' to database 'fuelosti_dash' in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[03-Apr-2021 05:25:59 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function error_no() in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 7
+[03-Apr-2021 05:26:14 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'fuelosti_dash1'@'localhost' to database 'fuelosti_dash' in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[03-Apr-2021 05:26:14 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function error_no() in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 7
+[03-Apr-2021 05:27:31 America/Boise] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[03-Apr-2021 05:27:31 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function error_no() in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 7
+[03-Apr-2021 05:28:03 America/Boise] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[03-Apr-2021 05:28:34 America/Boise] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[03-Apr-2021 05:30:11 America/Boise] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[03-Apr-2021 05:30:11 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function connect_arror() in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 7
+[03-Apr-2021 05:30:42 America/Boise] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[03-Apr-2021 05:30:42 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function connect_arror() in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 7
+[03-Apr-2021 05:31:14 America/Boise] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[03-Apr-2021 05:31:14 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function connect_error() in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 7
+[03-Apr-2021 05:33:05 America/Boise] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[03-Apr-2021 05:33:05 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function connect_error() in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 7
+[03-Apr-2021 05:37:33 America/Boise] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 3
+[03-Apr-2021 05:37:33 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function connect_error() in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 7
+[03-Apr-2021 05:51:49 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 252
+[03-Apr-2021 06:47:10 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/password.php:1) in /home3/fuelosti/public_html/WEB_APP/dash-pro/password.php on line 4
+[03-Apr-2021 06:47:10 America/Boise] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home3/fuelosti/public_html/WEB_APP/dash-pro/password.php on line 69
+[03-Apr-2021 06:47:10 America/Boise] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home3/fuelosti/public_html/WEB_APP/dash-pro/password.php on line 69
+[03-Apr-2021 06:47:20 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/password.php:1) in /home3/fuelosti/public_html/WEB_APP/dash-pro/password.php on line 4
+[03-Apr-2021 06:47:20 America/Boise] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home3/fuelosti/public_html/WEB_APP/dash-pro/password.php on line 69
+[03-Apr-2021 06:47:20 America/Boise] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home3/fuelosti/public_html/WEB_APP/dash-pro/password.php on line 69
+[04-Apr-2021 02:44:25 America/Boise] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 261
+[04-Apr-2021 02:44:31 America/Boise] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 261
+[04-Apr-2021 05:57:29 America/Boise] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 349
+[04-Apr-2021 05:57:34 America/Boise] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 349
+[04-Apr-2021 05:57:45 America/Boise] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 349
+[04-Apr-2021 05:58:02 America/Boise] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 349
+[04-Apr-2021 06:53:24 America/Boise] PHP Parse error:  syntax error, unexpected 'http' (T_STRING), expecting ',' or ';' in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 322
+[04-Apr-2021 12:19:27 America/Boise] PHP Parse error:  syntax error, unexpected 'modal' (T_STRING) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 371
+[04-Apr-2021 12:21:44 America/Boise] PHP Parse error:  syntax error, unexpected 'footer' (T_STRING) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 391
+[04-Apr-2021 12:21:47 America/Boise] PHP Parse error:  syntax error, unexpected 'footer' (T_STRING) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 391
+[05-Apr-2021 11:46:45 America/Boise] PHP Fatal error:  Cannot use temporary expression in write context in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 3
+[05-Apr-2021 11:47:17 America/Boise] PHP Fatal error:  Cannot use temporary expression in write context in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 3
+[05-Apr-2021 23:39:22 America/Boise] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/change_password.php:1) in /home3/fuelosti/public_html/WEB_APP/dash-pro/change_password.php on line 4
+[05-Apr-2021 23:39:22 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/change_password.php:1) in /home3/fuelosti/public_html/WEB_APP/dash-pro/change_password.php on line 4
+[05-Apr-2021 23:39:23 America/Boise] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home3/fuelosti/public_html/WEB_APP/dash-pro/change_password.php on line 71
+[05-Apr-2021 23:39:23 America/Boise] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home3/fuelosti/public_html/WEB_APP/dash-pro/change_password.php on line 71
+[07-Apr-2021 01:46:48 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 15
+[07-Apr-2021 01:46:48 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 36
+[07-Apr-2021 01:46:57 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 15
+[07-Apr-2021 01:46:57 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 32
+[07-Apr-2021 01:47:05 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 15
+[07-Apr-2021 01:47:05 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 32
+[07-Apr-2021 01:47:16 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 15
+[07-Apr-2021 01:47:16 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 32
+[07-Apr-2021 01:47:42 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 15
+[07-Apr-2021 01:47:42 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 32
+[07-Apr-2021 01:47:46 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 15
+[07-Apr-2021 01:47:46 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 32
+[07-Apr-2021 01:47:50 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 15
+[07-Apr-2021 01:47:50 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 32
+[07-Apr-2021 01:47:52 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 15
+[07-Apr-2021 01:47:52 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 32
+[07-Apr-2021 01:49:42 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 18
+[07-Apr-2021 01:49:42 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 35
+[07-Apr-2021 01:50:00 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 18
+[07-Apr-2021 01:50:00 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 39
+[07-Apr-2021 01:50:38 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 18
+[07-Apr-2021 01:50:38 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 35
+[07-Apr-2021 01:50:47 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 18
+[07-Apr-2021 01:50:47 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 35
+[07-Apr-2021 01:51:03 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 18
+[07-Apr-2021 01:51:03 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 35
+[07-Apr-2021 01:51:20 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 18
+[07-Apr-2021 01:51:20 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 39
+[07-Apr-2021 01:55:38 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 18
+[07-Apr-2021 01:55:38 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 35
+[07-Apr-2021 02:00:01 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 18
+[07-Apr-2021 02:00:01 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 39
+[07-Apr-2021 02:04:31 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 18
+[07-Apr-2021 02:04:31 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 39
+[07-Apr-2021 02:07:41 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 16
+[07-Apr-2021 02:07:41 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 37
+[07-Apr-2021 02:07:44 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 16
+[07-Apr-2021 02:07:44 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 37
+[07-Apr-2021 02:08:02 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 16
+[07-Apr-2021 02:08:02 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 33
+[07-Apr-2021 02:08:23 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 16
+[07-Apr-2021 02:08:23 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 33
+[07-Apr-2021 02:09:06 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 16
+[07-Apr-2021 02:09:06 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 37
+[07-Apr-2021 02:11:21 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 16
+[07-Apr-2021 02:11:21 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 37
+[07-Apr-2021 02:11:51 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 16
+[07-Apr-2021 02:11:51 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 37
+[07-Apr-2021 02:12:15 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 16
+[07-Apr-2021 02:12:15 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 37
+[07-Apr-2021 02:12:25 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 16
+[07-Apr-2021 02:12:25 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 37
+[07-Apr-2021 02:12:40 America/Boise] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 16
+[07-Apr-2021 02:12:40 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 37
+[07-Apr-2021 02:23:26 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 30
+[07-Apr-2021 02:23:26 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 37
+[07-Apr-2021 02:23:28 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 30
+[07-Apr-2021 02:23:28 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 37
+[07-Apr-2021 02:23:51 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 30
+[07-Apr-2021 02:23:51 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 37
+[07-Apr-2021 02:24:03 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 30
+[07-Apr-2021 02:24:03 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 37
+[07-Apr-2021 02:24:28 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 30
+[07-Apr-2021 02:24:28 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 37
+[07-Apr-2021 02:25:16 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 31
+[07-Apr-2021 02:25:16 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[07-Apr-2021 02:25:24 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 31
+[07-Apr-2021 02:25:24 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[07-Apr-2021 02:25:26 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 31
+[07-Apr-2021 02:25:26 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[07-Apr-2021 02:25:29 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 31
+[07-Apr-2021 02:25:29 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[07-Apr-2021 02:25:33 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 31
+[07-Apr-2021 02:25:33 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[07-Apr-2021 02:25:51 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 31
+[07-Apr-2021 02:25:51 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[07-Apr-2021 02:26:40 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 31
+[07-Apr-2021 02:26:40 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[07-Apr-2021 02:27:13 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 31
+[07-Apr-2021 02:27:13 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[07-Apr-2021 02:31:23 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[07-Apr-2021 02:31:39 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[07-Apr-2021 02:32:42 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[07-Apr-2021 02:32:58 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[07-Apr-2021 02:34:28 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[07-Apr-2021 02:34:43 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[07-Apr-2021 03:19:53 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[07-Apr-2021 03:22:45 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[07-Apr-2021 21:24:03 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[07-Apr-2021 21:24:27 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[07-Apr-2021 22:23:31 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[07-Apr-2021 22:23:35 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[07-Apr-2021 22:39:18 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[07-Apr-2021 22:39:20 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[07-Apr-2021 23:50:54 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[08-Apr-2021 00:59:42 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[08-Apr-2021 00:59:46 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[08-Apr-2021 01:00:18 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[08-Apr-2021 01:01:05 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[08-Apr-2021 08:17:46 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[08-Apr-2021 13:28:45 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[08-Apr-2021 13:30:08 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[09-Apr-2021 11:48:23 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[09-Apr-2021 12:15:23 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[09-Apr-2021 20:57:14 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[09-Apr-2021 20:57:15 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[09-Apr-2021 20:58:37 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[09-Apr-2021 21:00:18 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[09-Apr-2021 21:00:41 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[09-Apr-2021 21:00:44 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[09-Apr-2021 21:02:06 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[09-Apr-2021 21:03:37 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[09-Apr-2021 21:03:55 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[09-Apr-2021 21:04:39 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[09-Apr-2021 21:05:15 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[09-Apr-2021 21:06:30 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[09-Apr-2021 21:07:01 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[09-Apr-2021 21:07:55 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[09-Apr-2021 21:08:48 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[09-Apr-2021 21:09:21 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[09-Apr-2021 21:11:35 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[09-Apr-2021 21:12:44 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[09-Apr-2021 21:14:02 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[09-Apr-2021 21:14:16 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[09-Apr-2021 21:14:18 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[09-Apr-2021 21:15:42 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[09-Apr-2021 21:16:00 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[09-Apr-2021 21:17:18 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[09-Apr-2021 21:17:54 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[09-Apr-2021 21:23:41 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[09-Apr-2021 21:24:41 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[09-Apr-2021 21:24:59 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[09-Apr-2021 21:27:04 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[09-Apr-2021 21:27:46 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[09-Apr-2021 21:28:09 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[09-Apr-2021 21:47:31 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[09-Apr-2021 22:07:05 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[09-Apr-2021 22:07:41 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[09-Apr-2021 22:08:02 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[09-Apr-2021 22:08:33 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[09-Apr-2021 22:09:33 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[09-Apr-2021 22:09:59 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[09-Apr-2021 22:10:11 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[09-Apr-2021 22:11:10 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[09-Apr-2021 22:11:24 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[09-Apr-2021 22:11:39 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[09-Apr-2021 22:12:20 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[09-Apr-2021 22:13:22 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[09-Apr-2021 22:13:55 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[09-Apr-2021 22:14:09 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[09-Apr-2021 22:15:03 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[09-Apr-2021 22:17:36 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[09-Apr-2021 22:19:03 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[09-Apr-2021 22:21:28 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:13) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[09-Apr-2021 22:49:39 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 7
+[09-Apr-2021 22:49:47 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 7
+[09-Apr-2021 22:49:57 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 7
+[09-Apr-2021 23:39:13 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:19) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 37
+[10-Apr-2021 00:03:37 America/Boise] PHP Parse error:  syntax error, unexpected end of file in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 188
+[10-Apr-2021 00:03:40 America/Boise] PHP Parse error:  syntax error, unexpected end of file in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 188
+[10-Apr-2021 00:19:06 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:11) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 22
+[10-Apr-2021 00:19:06 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:11) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 23
+[10-Apr-2021 00:19:06 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:11) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 37
+[10-Apr-2021 00:20:24 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:11) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 22
+[10-Apr-2021 00:20:24 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:11) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 23
+[10-Apr-2021 00:20:24 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:11) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 27
+[10-Apr-2021 00:28:55 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:11) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 27
+[10-Apr-2021 00:29:04 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:11) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 22
+[10-Apr-2021 00:29:04 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:11) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 23
+[10-Apr-2021 00:29:04 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:11) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 27
+[10-Apr-2021 00:31:24 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:11) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 27
+[10-Apr-2021 00:31:32 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:11) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 27
+[10-Apr-2021 00:34:22 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:11) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 27
+[10-Apr-2021 00:34:28 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:11) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 27
+[10-Apr-2021 00:34:54 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:9) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 27
+[10-Apr-2021 00:43:07 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:9) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 27
+[10-Apr-2021 00:43:13 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:9) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 27
+[10-Apr-2021 00:57:46 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:9) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 26
+[10-Apr-2021 00:57:55 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:9) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 22
+[10-Apr-2021 00:57:55 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:9) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 23
+[10-Apr-2021 00:57:55 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:9) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 26
+[10-Apr-2021 00:59:22 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:9) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 22
+[10-Apr-2021 00:59:22 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:9) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 23
+[10-Apr-2021 00:59:22 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:9) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 26
+[10-Apr-2021 01:02:29 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:9) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 22
+[10-Apr-2021 01:02:29 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:9) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 23
+[10-Apr-2021 01:02:29 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:9) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 26
+[10-Apr-2021 01:02:37 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:9) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 26
+[10-Apr-2021 01:02:56 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:9) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 22
+[10-Apr-2021 01:02:56 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:9) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 23
+[10-Apr-2021 01:02:56 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:9) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 26
+[10-Apr-2021 01:04:41 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:9) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 26
+[10-Apr-2021 01:05:04 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:9) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 26
+[10-Apr-2021 01:05:06 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:9) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 26
+[10-Apr-2021 01:05:09 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:9) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 26
+[10-Apr-2021 01:05:16 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:9) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 26
+[10-Apr-2021 01:05:25 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:9) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 22
+[10-Apr-2021 01:05:25 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:9) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 23
+[10-Apr-2021 01:05:25 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:9) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 26
+[10-Apr-2021 01:06:27 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:9) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 22
+[10-Apr-2021 01:06:27 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:9) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 23
+[10-Apr-2021 01:06:27 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:9) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 27
+[10-Apr-2021 01:07:01 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:9) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 27
+[10-Apr-2021 01:07:09 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:9) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 22
+[10-Apr-2021 01:07:09 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:9) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 23
+[10-Apr-2021 01:07:09 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:9) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 27
+[10-Apr-2021 01:10:49 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:9) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 27
+[10-Apr-2021 01:11:12 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:9) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 27
+[10-Apr-2021 01:11:25 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:9) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 27
+[10-Apr-2021 01:11:33 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:9) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 27
+[10-Apr-2021 01:11:39 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:9) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 22
+[10-Apr-2021 01:11:39 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:9) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 23
+[10-Apr-2021 01:11:39 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:9) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 27
+[10-Apr-2021 01:11:44 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:9) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 22
+[10-Apr-2021 01:11:44 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:9) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 23
+[10-Apr-2021 01:11:44 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:9) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 27
+[10-Apr-2021 01:40:04 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:9) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 27
+[10-Apr-2021 01:40:11 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:9) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 22
+[10-Apr-2021 01:40:11 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:9) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 23
+[10-Apr-2021 01:40:11 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:9) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 27
+[10-Apr-2021 03:29:23 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:18) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 30
+[10-Apr-2021 03:43:14 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 30
+[10-Apr-2021 03:43:14 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 31
+[10-Apr-2021 03:43:14 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 37
+[10-Apr-2021 03:43:22 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 30
+[10-Apr-2021 03:43:22 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 31
+[10-Apr-2021 03:43:22 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 37
+[10-Apr-2021 03:43:29 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 30
+[10-Apr-2021 03:43:29 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 31
+[10-Apr-2021 03:43:29 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 37
+[10-Apr-2021 03:43:56 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 32
+[10-Apr-2021 03:43:56 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 33
+[10-Apr-2021 03:43:56 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 39
+[10-Apr-2021 03:44:04 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 32
+[10-Apr-2021 03:44:04 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 33
+[10-Apr-2021 03:44:04 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 39
+[10-Apr-2021 03:45:13 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 32
+[10-Apr-2021 03:45:13 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 33
+[10-Apr-2021 03:45:13 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 34
+[10-Apr-2021 03:45:13 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 40
+[10-Apr-2021 03:45:19 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 32
+[10-Apr-2021 03:45:19 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 33
+[10-Apr-2021 03:45:19 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 34
+[10-Apr-2021 03:45:19 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 40
+[10-Apr-2021 03:46:01 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 32
+[10-Apr-2021 03:46:01 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 33
+[10-Apr-2021 03:46:01 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 34
+[10-Apr-2021 03:46:01 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 40
+[10-Apr-2021 03:46:08 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 24
+[10-Apr-2021 03:46:08 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 25
+[10-Apr-2021 03:46:08 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 27
+[10-Apr-2021 03:50:19 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 33
+[10-Apr-2021 03:50:19 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 34
+[10-Apr-2021 03:50:19 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 35
+[10-Apr-2021 03:50:19 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 41
+[10-Apr-2021 03:53:04 America/Boise] PHP Parse error:  syntax error, unexpected end of file in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 189
+[10-Apr-2021 03:53:37 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 33
+[10-Apr-2021 03:53:37 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 34
+[10-Apr-2021 03:53:37 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 35
+[10-Apr-2021 03:53:47 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 33
+[10-Apr-2021 03:53:47 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 34
+[10-Apr-2021 03:53:47 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 35
+[10-Apr-2021 03:53:59 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 25
+[10-Apr-2021 03:53:59 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 26
+[10-Apr-2021 03:53:59 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 28
+[10-Apr-2021 03:54:54 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 25
+[10-Apr-2021 03:54:54 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 26
+[10-Apr-2021 03:54:54 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 28
+[10-Apr-2021 03:55:01 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 25
+[10-Apr-2021 03:55:01 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 26
+[10-Apr-2021 03:55:01 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 28
+[10-Apr-2021 03:55:12 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 32
+[10-Apr-2021 03:55:12 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 33
+[10-Apr-2021 03:55:12 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 34
+[10-Apr-2021 03:55:23 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 25
+[10-Apr-2021 03:55:23 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 26
+[10-Apr-2021 03:55:23 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 28
+[10-Apr-2021 03:56:59 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 25
+[10-Apr-2021 03:56:59 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 26
+[10-Apr-2021 03:56:59 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 28
+[10-Apr-2021 03:57:06 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 32
+[10-Apr-2021 03:57:06 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 33
+[10-Apr-2021 03:57:06 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 34
+[10-Apr-2021 03:57:14 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 32
+[10-Apr-2021 03:57:14 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 33
+[10-Apr-2021 03:57:14 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 34
+[10-Apr-2021 03:57:21 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 25
+[10-Apr-2021 03:57:21 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 26
+[10-Apr-2021 03:57:21 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 28
+[10-Apr-2021 03:57:29 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 25
+[10-Apr-2021 03:57:29 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 26
+[10-Apr-2021 03:57:29 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 28
+[11-Apr-2021 21:05:15 America/Boise] PHP Warning:  Cookie names must not be empty in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 20
+[11-Apr-2021 21:06:37 America/Boise] PHP Warning:  Cookie names must not be empty in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 20
+[11-Apr-2021 21:08:44 America/Boise] PHP Warning:  Cookie names must not be empty in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 20
+[11-Apr-2021 21:11:28 America/Boise] PHP Warning:  Cookie names must not be empty in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 20
+[11-Apr-2021 21:14:12 America/Boise] PHP Warning:  Cookie names must not be empty in /home3/fuelosti/public_html/WEB_APP/dash-pro/logout.php on line 3
+[11-Apr-2021 21:17:53 America/Boise] PHP Warning:  Cookie names must not be empty in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 20
+[11-Apr-2021 21:19:27 America/Boise] PHP Warning:  Cookie names must not be empty in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 20
+[11-Apr-2021 21:19:41 America/Boise] PHP Warning:  Cookie names must not be empty in /home3/fuelosti/public_html/WEB_APP/dash-pro/logout.php on line 3
+[11-Apr-2021 21:20:35 America/Boise] PHP Warning:  Cookie names must not be empty in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 20
+[11-Apr-2021 21:23:23 America/Boise] PHP Warning:  Cookie names must not be empty in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 20
+[11-Apr-2021 21:23:37 America/Boise] PHP Warning:  Cookie names must not be empty in /home3/fuelosti/public_html/WEB_APP/dash-pro/logout.php on line 3
+[11-Apr-2021 21:25:22 America/Boise] PHP Warning:  Cookie names must not be empty in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 20
+[11-Apr-2021 21:29:29 America/Boise] PHP Warning:  setcookie() expects parameter 3 to be integer, string given in /home3/fuelosti/public_html/WEB_APP/dash-pro/logout.php on line 3
+[11-Apr-2021 21:29:50 America/Boise] PHP Warning:  Cookie names must not be empty in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 21
+[11-Apr-2021 21:31:42 America/Boise] PHP Warning:  setcookie() expects parameter 3 to be integer, string given in /home3/fuelosti/public_html/WEB_APP/dash-pro/logout.php on line 4
+[11-Apr-2021 21:32:54 America/Boise] PHP Warning:  Cookie names must not be empty in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 21
+[11-Apr-2021 21:35:00 America/Boise] PHP Warning:  Cookie names must not be empty in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 21
+[11-Apr-2021 21:35:53 America/Boise] PHP Warning:  setcookie() expects parameter 3 to be integer, string given in /home3/fuelosti/public_html/WEB_APP/dash-pro/logout.php on line 4
+[11-Apr-2021 22:03:20 America/Boise] PHP Warning:  Cookie names must not be empty in /home3/fuelosti/public_html/WEB_APP/dash-pro/login-logic.php on line 21
+[11-Apr-2021 22:07:57 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:2) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 5
+[11-Apr-2021 22:07:59 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:2) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 5
+[11-Apr-2021 22:08:44 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:2) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 5
+[11-Apr-2021 22:08:47 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:2) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 5
+[11-Apr-2021 22:09:07 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:2) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 5
+[11-Apr-2021 22:09:51 America/Boise] PHP Warning:  setcookie() expects parameter 3 to be integer, string given in /home3/fuelosti/public_html/WEB_APP/dash-pro/logout.php on line 4
+[11-Apr-2021 22:09:52 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:2) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 5
+[11-Apr-2021 22:09:54 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:2) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 5
+[11-Apr-2021 22:09:56 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:2) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 5
+[11-Apr-2021 22:09:59 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:2) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 5
+[11-Apr-2021 22:13:38 America/Boise] PHP Warning:  setcookie() expects parameter 3 to be integer, string given in /home3/fuelosti/public_html/WEB_APP/dash-pro/logout.php on line 4
+[11-Apr-2021 22:13:39 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:2) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 5
+[11-Apr-2021 22:15:52 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function unsetcookie() in /home3/fuelosti/public_html/WEB_APP/dash-pro/logout.php:4
+Stack trace:
+#0 {main}
+  thrown in /home3/fuelosti/public_html/WEB_APP/dash-pro/logout.php on line 4
+[11-Apr-2021 22:15:52 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:2) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 5
+[11-Apr-2021 22:15:55 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:2) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 5
+[11-Apr-2021 22:16:34 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:2) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 5
+[11-Apr-2021 22:17:44 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:2) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 5
+[11-Apr-2021 22:18:11 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:2) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 5
+[11-Apr-2021 22:18:14 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:2) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 5
+[11-Apr-2021 22:18:23 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:2) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 5
+[11-Apr-2021 22:19:18 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:2) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 5
+[11-Apr-2021 22:19:20 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:2) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 5
+[11-Apr-2021 22:20:24 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:2) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 5
+[11-Apr-2021 22:20:29 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:2) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 5
+[12-Apr-2021 02:19:11 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:2) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 5
+[13-Apr-2021 05:18:57 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 11
+[13-Apr-2021 05:26:57 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 29
+[13-Apr-2021 05:26:57 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 30
+[13-Apr-2021 05:26:57 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 33
+[13-Apr-2021 05:27:03 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 29
+[13-Apr-2021 05:27:03 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 30
+[13-Apr-2021 05:27:03 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 33
+[13-Apr-2021 05:27:34 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 29
+[13-Apr-2021 05:27:34 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 30
+[13-Apr-2021 05:27:34 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 33
+[13-Apr-2021 05:27:50 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 29
+[13-Apr-2021 05:27:50 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 30
+[13-Apr-2021 05:27:50 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:16) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 33
+[13-Apr-2021 22:27:08 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php:3) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 6
+[13-Apr-2021 22:44:23 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php:3) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 6
+[13-Apr-2021 22:44:44 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php:3) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 6
+[13-Apr-2021 22:45:43 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php:3) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 6
+[13-Apr-2021 22:45:54 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php:3) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 6
+[13-Apr-2021 22:54:59 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 10
+[13-Apr-2021 22:55:23 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 10
+[13-Apr-2021 22:55:37 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 10
+[13-Apr-2021 23:03:38 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function session_close() in /home3/fuelosti/public_html/WEB_APP/dash-pro/display.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/fuelosti/public_html/WEB_APP/dash-pro/display.php on line 5
+[13-Apr-2021 23:05:55 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function session_close() in /home3/fuelosti/public_html/WEB_APP/dash-pro/display.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/fuelosti/public_html/WEB_APP/dash-pro/display.php on line 5
+[13-Apr-2021 23:07:01 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function session_close() in /home3/fuelosti/public_html/WEB_APP/dash-pro/display.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/fuelosti/public_html/WEB_APP/dash-pro/display.php on line 5
+[13-Apr-2021 23:11:35 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function session_close() in /home3/fuelosti/public_html/WEB_APP/dash-pro/display.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/fuelosti/public_html/WEB_APP/dash-pro/display.php on line 5
+[13-Apr-2021 23:11:54 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function session_close() in /home3/fuelosti/public_html/WEB_APP/dash-pro/display.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/fuelosti/public_html/WEB_APP/dash-pro/display.php on line 5
+[13-Apr-2021 23:12:19 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function session_close() in /home3/fuelosti/public_html/WEB_APP/dash-pro/display.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/fuelosti/public_html/WEB_APP/dash-pro/display.php on line 5
+[13-Apr-2021 23:12:32 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function session_close() in /home3/fuelosti/public_html/WEB_APP/dash-pro/display.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/fuelosti/public_html/WEB_APP/dash-pro/display.php on line 5
+[13-Apr-2021 23:13:37 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function session_close() in /home3/fuelosti/public_html/WEB_APP/dash-pro/display.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/fuelosti/public_html/WEB_APP/dash-pro/display.php on line 5
+[13-Apr-2021 23:14:34 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function session_close() in /home3/fuelosti/public_html/WEB_APP/dash-pro/display.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/fuelosti/public_html/WEB_APP/dash-pro/display.php on line 5
+[13-Apr-2021 23:14:56 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function session_close() in /home3/fuelosti/public_html/WEB_APP/dash-pro/display.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/fuelosti/public_html/WEB_APP/dash-pro/display.php on line 5
+[13-Apr-2021 23:15:05 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function session_close() in /home3/fuelosti/public_html/WEB_APP/dash-pro/display.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/fuelosti/public_html/WEB_APP/dash-pro/display.php on line 5
+[13-Apr-2021 23:16:51 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function session_close() in /home3/fuelosti/public_html/WEB_APP/dash-pro/display.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/fuelosti/public_html/WEB_APP/dash-pro/display.php on line 5
+[13-Apr-2021 23:17:12 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function session_close() in /home3/fuelosti/public_html/WEB_APP/dash-pro/display.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/fuelosti/public_html/WEB_APP/dash-pro/display.php on line 5
+[13-Apr-2021 23:22:43 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function session_close() in /home3/fuelosti/public_html/WEB_APP/dash-pro/display.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/fuelosti/public_html/WEB_APP/dash-pro/display.php on line 5
+[13-Apr-2021 23:24:44 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 19
+[13-Apr-2021 23:24:44 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 20
+[13-Apr-2021 23:24:49 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 19
+[13-Apr-2021 23:24:49 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 20
+[13-Apr-2021 23:24:55 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 19
+[13-Apr-2021 23:24:55 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 20
+[13-Apr-2021 23:25:05 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 19
+[13-Apr-2021 23:25:05 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 20
+[13-Apr-2021 23:26:07 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 21
+[13-Apr-2021 23:26:07 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 22
+[13-Apr-2021 23:26:11 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 21
+[13-Apr-2021 23:26:11 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 22
+[13-Apr-2021 23:26:17 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 21
+[13-Apr-2021 23:26:17 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 22
+[13-Apr-2021 23:27:27 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 21
+[13-Apr-2021 23:27:27 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 22
+[13-Apr-2021 23:27:34 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 21
+[13-Apr-2021 23:27:34 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 22
+[13-Apr-2021 23:27:39 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 21
+[13-Apr-2021 23:27:39 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 22
+[13-Apr-2021 23:28:52 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 21
+[13-Apr-2021 23:28:52 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 22
+[13-Apr-2021 23:28:58 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 21
+[13-Apr-2021 23:28:58 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 22
+[13-Apr-2021 23:29:06 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 21
+[13-Apr-2021 23:29:06 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 22
+[13-Apr-2021 23:29:14 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 21
+[13-Apr-2021 23:29:14 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 22
+[13-Apr-2021 23:42:01 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function session_close() in /home3/fuelosti/public_html/WEB_APP/dash-pro/display.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/fuelosti/public_html/WEB_APP/dash-pro/display.php on line 5
+[13-Apr-2021 23:42:30 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function session_close() in /home3/fuelosti/public_html/WEB_APP/dash-pro/display.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/fuelosti/public_html/WEB_APP/dash-pro/display.php on line 5
+[13-Apr-2021 23:42:48 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function session_close() in /home3/fuelosti/public_html/WEB_APP/dash-pro/display.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/fuelosti/public_html/WEB_APP/dash-pro/display.php on line 5
+[13-Apr-2021 23:43:25 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function session_close() in /home3/fuelosti/public_html/WEB_APP/dash-pro/display.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/fuelosti/public_html/WEB_APP/dash-pro/display.php on line 5
+[13-Apr-2021 23:43:40 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function session_close() in /home3/fuelosti/public_html/WEB_APP/dash-pro/display.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/fuelosti/public_html/WEB_APP/dash-pro/display.php on line 5
+[13-Apr-2021 23:47:19 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function session_close() in /home3/fuelosti/public_html/WEB_APP/dash-pro/display.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/fuelosti/public_html/WEB_APP/dash-pro/display.php on line 5
+[13-Apr-2021 23:48:28 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function session_close() in /home3/fuelosti/public_html/WEB_APP/dash-pro/display.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/fuelosti/public_html/WEB_APP/dash-pro/display.php on line 5
+[13-Apr-2021 23:50:22 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function session_close() in /home3/fuelosti/public_html/WEB_APP/dash-pro/display.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/fuelosti/public_html/WEB_APP/dash-pro/display.php on line 5
+[13-Apr-2021 23:50:46 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function session_close() in /home3/fuelosti/public_html/WEB_APP/dash-pro/display.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/fuelosti/public_html/WEB_APP/dash-pro/display.php on line 5
+[13-Apr-2021 23:51:04 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function session_close() in /home3/fuelosti/public_html/WEB_APP/dash-pro/display.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/fuelosti/public_html/WEB_APP/dash-pro/display.php on line 5
+[13-Apr-2021 23:52:14 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function session_close() in /home3/fuelosti/public_html/WEB_APP/dash-pro/display.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/fuelosti/public_html/WEB_APP/dash-pro/display.php on line 5
+[13-Apr-2021 23:54:28 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 21
+[13-Apr-2021 23:54:28 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 22
+[13-Apr-2021 23:54:36 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 21
+[13-Apr-2021 23:54:36 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 22
+[13-Apr-2021 23:54:44 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 21
+[13-Apr-2021 23:54:44 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 22
+[14-Apr-2021 12:25:53 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:11) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 34
+[14-Apr-2021 12:25:53 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:11) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 35
+[14-Apr-2021 12:25:53 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:11) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[14-Apr-2021 12:26:00 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:11) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 34
+[14-Apr-2021 12:26:00 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:11) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 35
+[14-Apr-2021 12:26:00 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:11) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 38
+[14-Apr-2021 12:28:07 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:21) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 33
+[14-Apr-2021 12:28:07 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:21) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 34
+[14-Apr-2021 12:28:07 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php:21) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 37
+[16-Apr-2021 22:08:12 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 14
+[16-Apr-2021 22:08:12 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 16
+[16-Apr-2021 22:08:12 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 17
+[16-Apr-2021 22:08:16 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 14
+[16-Apr-2021 22:08:16 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 16
+[16-Apr-2021 22:08:16 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 17
+[16-Apr-2021 22:08:24 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 14
+[16-Apr-2021 22:08:24 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 16
+[16-Apr-2021 22:08:24 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/login.php on line 17
+[16-Apr-2021 22:14:05 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 307
+[16-Apr-2021 22:14:05 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 309
+[16-Apr-2021 22:14:05 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 310
+[16-Apr-2021 22:14:05 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php:340
+Stack trace:
+#0 {main}
+  thrown in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 340
+[16-Apr-2021 22:14:25 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 307
+[16-Apr-2021 22:14:25 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 309
+[16-Apr-2021 22:14:25 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 310
+[16-Apr-2021 22:14:25 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php:340
+Stack trace:
+#0 {main}
+  thrown in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 340
+[16-Apr-2021 22:15:42 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 307
+[16-Apr-2021 22:15:42 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 309
+[16-Apr-2021 22:15:42 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 310
+[16-Apr-2021 22:16:53 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 307
+[16-Apr-2021 22:16:53 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 309
+[16-Apr-2021 22:16:53 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 310
+[16-Apr-2021 22:17:06 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 307
+[16-Apr-2021 22:17:06 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 309
+[16-Apr-2021 22:17:06 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 310
+[16-Apr-2021 22:18:08 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 307
+[16-Apr-2021 22:18:08 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 309
+[16-Apr-2021 22:18:08 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 310
+[16-Apr-2021 22:19:07 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 307
+[16-Apr-2021 22:19:07 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 309
+[16-Apr-2021 22:19:07 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 310
+[16-Apr-2021 22:19:42 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 307
+[16-Apr-2021 22:19:42 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 309
+[16-Apr-2021 22:19:42 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 310
+[16-Apr-2021 22:19:47 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 307
+[16-Apr-2021 22:19:47 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 309
+[16-Apr-2021 22:19:47 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 310
+[16-Apr-2021 22:21:28 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 307
+[16-Apr-2021 22:21:28 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 309
+[16-Apr-2021 22:21:28 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 310
+[16-Apr-2021 22:21:34 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 307
+[16-Apr-2021 22:21:34 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 309
+[16-Apr-2021 22:21:34 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 310
+[16-Apr-2021 22:22:38 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 307
+[16-Apr-2021 22:22:38 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 309
+[16-Apr-2021 22:22:38 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 310
+[16-Apr-2021 22:22:40 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 307
+[16-Apr-2021 22:22:40 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 309
+[16-Apr-2021 22:22:40 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 310
+[16-Apr-2021 22:23:04 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 307
+[16-Apr-2021 22:23:04 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 309
+[16-Apr-2021 22:23:04 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 310
+[16-Apr-2021 22:23:56 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 307
+[16-Apr-2021 22:23:56 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 309
+[16-Apr-2021 22:23:56 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 310
+[16-Apr-2021 22:26:44 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 307
+[16-Apr-2021 22:26:44 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 309
+[16-Apr-2021 22:26:44 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 310
+[16-Apr-2021 22:27:08 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 307
+[16-Apr-2021 22:27:08 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 309
+[16-Apr-2021 22:27:08 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 310
+[16-Apr-2021 22:27:23 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 307
+[16-Apr-2021 22:27:23 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 309
+[16-Apr-2021 22:27:23 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 310
+[16-Apr-2021 22:27:29 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 307
+[16-Apr-2021 22:27:29 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 309
+[16-Apr-2021 22:27:29 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 310
+[16-Apr-2021 22:29:26 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 307
+[16-Apr-2021 22:29:26 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 309
+[16-Apr-2021 22:29:26 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 310
+[16-Apr-2021 22:32:27 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 307
+[16-Apr-2021 22:32:27 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 309
+[16-Apr-2021 22:32:27 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 310
+[16-Apr-2021 22:32:38 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 307
+[16-Apr-2021 22:32:38 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 309
+[16-Apr-2021 22:32:38 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 310
+[16-Apr-2021 23:00:46 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 307
+[16-Apr-2021 23:00:46 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 309
+[16-Apr-2021 23:00:46 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 310
+[16-Apr-2021 23:10:31 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 307
+[16-Apr-2021 23:10:31 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 309
+[16-Apr-2021 23:10:31 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 310
+[16-Apr-2021 23:10:33 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 307
+[16-Apr-2021 23:10:33 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 309
+[16-Apr-2021 23:10:33 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 310
+[16-Apr-2021 23:11:44 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 307
+[16-Apr-2021 23:11:44 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 309
+[16-Apr-2021 23:11:44 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 310
+[16-Apr-2021 23:11:47 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 307
+[16-Apr-2021 23:11:47 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 309
+[16-Apr-2021 23:11:47 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 310
+[16-Apr-2021 23:11:47 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 307
+[16-Apr-2021 23:11:47 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 309
+[16-Apr-2021 23:11:47 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 310
+[16-Apr-2021 23:11:56 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 307
+[16-Apr-2021 23:11:56 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 309
+[16-Apr-2021 23:11:56 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 310
+[16-Apr-2021 23:13:58 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 307
+[16-Apr-2021 23:13:58 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 309
+[16-Apr-2021 23:13:58 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 310
+[16-Apr-2021 23:14:00 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 307
+[16-Apr-2021 23:14:00 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 309
+[16-Apr-2021 23:14:00 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 310
+[16-Apr-2021 23:24:18 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 307
+[16-Apr-2021 23:24:18 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 309
+[16-Apr-2021 23:24:18 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 310
+[16-Apr-2021 23:25:25 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 307
+[16-Apr-2021 23:25:25 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 309
+[16-Apr-2021 23:25:25 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 310
+[16-Apr-2021 23:25:26 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 307
+[16-Apr-2021 23:25:26 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 309
+[16-Apr-2021 23:25:26 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 310
+[16-Apr-2021 23:27:33 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 307
+[16-Apr-2021 23:27:33 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 309
+[16-Apr-2021 23:27:33 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 310
+[16-Apr-2021 23:27:44 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 307
+[16-Apr-2021 23:27:44 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 309
+[16-Apr-2021 23:27:44 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 310
+[16-Apr-2021 23:27:53 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 307
+[16-Apr-2021 23:27:53 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 309
+[16-Apr-2021 23:27:53 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 310
+[16-Apr-2021 23:27:57 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 307
+[16-Apr-2021 23:27:57 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 309
+[16-Apr-2021 23:27:57 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 310
+[16-Apr-2021 23:28:02 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 307
+[16-Apr-2021 23:28:02 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 309
+[16-Apr-2021 23:28:02 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 310
+[16-Apr-2021 23:28:20 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 307
+[16-Apr-2021 23:28:20 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 309
+[16-Apr-2021 23:28:20 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 310
+[16-Apr-2021 23:29:06 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 307
+[16-Apr-2021 23:29:06 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 309
+[16-Apr-2021 23:29:06 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 310
+[16-Apr-2021 23:29:08 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 307
+[16-Apr-2021 23:29:08 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 309
+[16-Apr-2021 23:29:08 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 310
+[16-Apr-2021 23:30:11 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 307
+[16-Apr-2021 23:30:11 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 309
+[16-Apr-2021 23:30:11 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 310
+[16-Apr-2021 23:30:20 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 307
+[16-Apr-2021 23:30:20 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 309
+[16-Apr-2021 23:30:20 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 310
+[16-Apr-2021 23:30:42 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 307
+[16-Apr-2021 23:30:42 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 309
+[16-Apr-2021 23:30:42 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/fuelosti/public_html/WEB_APP/dash-pro/Home.php on line 310
